@@ -1,0 +1,17 @@
+{
+  "name": "sachingulati",
+  "owner": { "name": "Sachin Gulati" },
+  "metadata": {
+    "description": "Claude Code plugins by Sachin Gulati."
+  },
+  "plugins": [
+    {
+      "name": "statusline",
+      "source": { "source": "github", "repo": "sachingulati/claude-statusline" },
+      "description": "A status line with live 5-hour and 7-day rate limits for every Claude account you use, pace-aware weekly usage, and one-command hiding for screen sharing.",
+      "homepage": "https://github.com/sachingulati/claude-statusline",
+      "license": "MIT",
+      "keywords": ["statusline", "rate-limits", "usage", "quota", "multi-account"]
+    }
+  ]
+}
