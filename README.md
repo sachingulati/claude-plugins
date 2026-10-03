@@ -3,7 +3,7 @@
 A [Claude Code](https://claude.com/claude-code) plugin marketplace with Sachin Gulati's plugins.
 
 ```
-/plugin marketplace add sachingulati/claude-plugins
+/plugin marketplace add https://github.com/sachingulati/claude-plugins.git
 ```
 
 | Plugin | Install | What it does |

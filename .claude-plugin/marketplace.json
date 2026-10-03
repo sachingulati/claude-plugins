@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "sline",
-      "source": { "source": "github", "repo": "sachingulati/claude-statusline" },
+      "source": { "source": "url", "url": "https://github.com/sachingulati/claude-statusline.git" },
       "description": "Claude Code status line showing 5-hour and weekly rate limits for all your Claude accounts at once: live for this session, recently checked for the rest. Pace-aware usage, and one command to show or hide the numbers. Reads no credentials.",
       "homepage": "https://github.com/sachingulati/claude-statusline",
       "license": "MIT",
