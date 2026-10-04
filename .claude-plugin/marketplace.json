@@ -12,6 +12,16 @@
       "homepage": "https://github.com/sachingulati/claude-statusline",
       "license": "MIT",
       "keywords": ["sline", "claude-code", "statusline", "status-line", "rate-limits", "weekly-limit", "usage", "quota", "pace", "monitoring", "multi-account"]
+    },
+    {
+      "name": "nk",
+      "displayName": "Notekeeping",
+      "source": { "source": "url", "url": "https://github.com/sachingulati/notekeeping.git" },
+      "description": "A knowledge base built out of your work rather than beside it. What outlives the task is promoted into project, workspace or global knowledge, and the same checkpoint makes the session disposable: save, clear, load.",
+      "homepage": "https://github.com/sachingulati/notekeeping",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["notekeeping", "notes", "knowledge", "handover", "context", "work-items"]
     }
   ]
 }

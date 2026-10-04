@@ -9,5 +9,6 @@ A [Claude Code](https://claude.com/claude-code) plugin marketplace with Sachin G
 | Plugin | Install | What it does |
 |---|---|---|
 | [SLine](https://github.com/sachingulati/claude-statusline) | `/plugin install sline@sachingulati`, then `/sline:init` | Status line with live 5-hour and 7-day rate limits for every Claude account you use, pace-aware weekly usage, and one command to show or hide the usage numbers. Needs Node.js 18+. |
+| [Notekeeping](https://github.com/sachingulati/notekeeping) | `/plugin install nk@sachingulati`, then `/nk:init` | Notes for everything you work on: each task keeps its own record, what it taught you is promoted to the project, workspace or everywhere you work, and `/nk:save` makes the session safe to `/clear`. Plain Markdown in a directory you own. |
 
 Each plugin lives in its own repository; this repo only lists them.
