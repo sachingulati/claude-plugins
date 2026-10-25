@@ -22,6 +22,16 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": ["notekeeping", "notes", "knowledge", "handover", "context", "work-items"]
+    },
+    {
+      "name": "nk-autosave",
+      "displayName": "Notekeeping Autosave",
+      "source": { "source": "url", "url": "https://github.com/sachingulati/nk-autosave.git" },
+      "description": "Saves your Notekeeping work when a session goes idle: after a set time with no prompt it runs /nk:save --unattended, once per break, where a Notekeeping skill ran and something was written. Needs the nk plugin.",
+      "homepage": "https://github.com/sachingulati/nk-autosave",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["notekeeping", "autosave", "idle", "save", "context"]
     }
   ]
 }
